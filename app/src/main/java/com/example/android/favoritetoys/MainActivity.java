@@ -26,6 +26,8 @@ public class MainActivity extends AppCompatActivity {
         setContentView(R.layout.activity_main);
     }
     public void mamitos(){
-        int p=1;
+        int p=45+80;
+
+        int lito=p+8484;
     }
 }
